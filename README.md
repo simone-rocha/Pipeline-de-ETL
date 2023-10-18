@@ -9,5 +9,7 @@ A Extração de dados se deu com a utilização e criação de novos usuários c
 
 A planilha de identificação dos usuários (1SDW2023.csv) – anexa- foi atualizada com o UserID de cada usuário selecionado. 
 Foi realizada uma requisição  GET com a importação da biblioteca panda extraindo corretamente o número de cada nova ID.
+
 A transformação/ limpeza dos dados, podem ser realizadas com análise de banco de dados que possibilita observar o perfil e histórico de cada cliente bancário, com o intuito de personalizar ainda mais as mensagens direcionada a eles, o que promove um impacto mais positivo desse marketing.
+
 A atualização também utilizará o banco de dados para registrar as mensagens enviadas e todas ações que foram tomadas, bem como, registrar os impactos percebidos com a ação.
